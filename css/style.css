@@ -9,6 +9,12 @@ body {
     background-color: black;
 }
 
+.profile-container {
+    display: flex;
+    justify-content: center;
+    margin-right: 150px;
+}
+
 .fabs-section {
     border: 1px solid;
     border-radius: 20px;
