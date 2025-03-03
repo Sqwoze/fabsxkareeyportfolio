@@ -5,8 +5,36 @@ nav {
     color: white;
 }
 
+nav button {
+    background: transparent;
+    color: black;
+    border: 0px solid;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.contact-btn {
+    border: 1px solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 20px;
+}
+
+.contact-btn:hover {
+    color: black;
+    background-color: white;
+}
+
+nav button:hover{
+    cursor: pointer;
+}
+
 body {
-    background-color: black;
+    background-image: url(/imgs/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .profile-container {
