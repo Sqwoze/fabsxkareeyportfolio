@@ -14,3 +14,13 @@ body {
 h1{
     padding-top: 10px;
 }
+
+button{
+     font-size: 40px;
+     color: black;
+     background-color: white;
+     padding: 0;
+     border: 0px solid;
+     background-color: transparent;
+    
+}
