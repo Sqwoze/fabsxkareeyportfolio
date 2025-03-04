@@ -25,6 +25,7 @@ nav button {
 .contact-btn:hover {
     color: black;
     background-color: white;
+    padding: 5px;
 }
 
 nav button:hover{
